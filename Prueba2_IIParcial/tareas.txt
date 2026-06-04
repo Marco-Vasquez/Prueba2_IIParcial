@@ -1,0 +1,4 @@
+[✓] Hacer ejercicio
+[ ] Salir a correr
+[✓] Hacer tareas
+[ ] Hacer cena
