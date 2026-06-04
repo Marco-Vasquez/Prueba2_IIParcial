@@ -80,6 +80,6 @@ public class Menu {
         nombreTarea=tareas.get(numero-1).substring(4);
         tareas.set(numero-1,"[✓] "+nombreTarea);
         gestor.guardarTareas(tareas);
-        System.out.println("\n✓ Tarea #"+numero+" completada: "+nombreTarea);
+        System.out.println("\n✓“ Tarea #"+numero+" completada: "+nombreTarea);
     }
 }
